@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 5532b5820ff3d014382360eed52abdbe
+timeCreated: 1463659501
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FrontTop1
+    100002: FrontTop2
+    100004: SkirtA1
+    100006: SkirtA2
+    100008: SkirtB1
+    100010: SkirtB2
+    100012: SkirtC1
+    100014: SkirtC2
+    100016: sleeve1
+    100018: sleeve2
+    100020: //RootNode
+    100022: border
+    400000: FrontTop1
+    400002: FrontTop2
+    400004: SkirtA1
+    400006: SkirtA2
+    400008: SkirtB1
+    400010: SkirtB2
+    400012: SkirtC1
+    400014: SkirtC2
+    400016: sleeve1
+    400018: sleeve2
+    400020: //RootNode
+    400022: border
+    2300000: FrontTop1
+    2300002: FrontTop2
+    2300004: SkirtA1
+    2300006: SkirtA2
+    2300008: SkirtB1
+    2300010: SkirtB2
+    2300012: SkirtC1
+    2300014: SkirtC2
+    2300016: sleeve1
+    2300018: sleeve2
+    2300020: border
+    3300000: FrontTop1
+    3300002: FrontTop2
+    3300004: SkirtA1
+    3300006: SkirtA2
+    3300008: SkirtB1
+    3300010: SkirtB2
+    3300012: SkirtC1
+    3300014: SkirtC2
+    3300016: sleeve1
+    3300018: sleeve2
+    3300020: border
+    4300000: sleeve1
+    4300002: sleeve2
+    4300004: FrontTop1
+    4300006: FrontTop2
+    4300008: SkirtC1
+    4300010: SkirtB1
+    4300012: SkirtA1
+    4300014: SkirtA2
+    4300016: SkirtC2
+    4300018: SkirtB2
+    4300020: border
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
